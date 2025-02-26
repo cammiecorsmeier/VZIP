@@ -9,3 +9,6 @@ This project enhances the performance of a file compression tool using multithre
 - **Libraries**:
   - `pthread`
   - `zlib` (install using `sudo apt install zlib1g-dev` if needed)
+    
+## Extra
+The vzip and frame files are too large for github, so code is just here to display our work.
